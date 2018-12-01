@@ -1,0 +1,6 @@
+spring:
+  profiles:east
+    lucky-word:clover
+spring:
+  profiles:west
+    lucky-word:RabbitsFoot
